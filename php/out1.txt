@@ -1,0 +1,16 @@
+ Le volume dans le lecteur D s'appelle New Volume
+ Le num‚ro de s‚rie du volume est A29E-F0F7
+
+ R‚pertoire de D:\wamp2\www\GraCE\php
+
+23/04/2019  03:11    <DIR>          .
+23/04/2019  03:11    <DIR>          ..
+23/04/2019  03:11                 0 ex.bat
+23/04/2019  03:07                61 out.finale
+23/04/2019  03:21                 0 out1.txt
+23/04/2019  03:15                 0 outp
+23/04/2019  02:50               468 output
+23/04/2019  03:01                 0 output.txt
+23/04/2019  03:18             5ÿ828 process.php
+               7 fichier(s)            6ÿ357 octets
+               2 R‚p(s)  181ÿ968ÿ003ÿ072 octets libres
